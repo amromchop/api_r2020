@@ -1,4 +1,4 @@
-# Association for Pathology Informatics R Workshop
+# Penn Pathology Trainees R Workshop
 
 This introductory R workshop aims to teach participants with minimal programming experience the basics of the R statistical programming language for reproducible laboratory data analytics. R is a freely available programming environment that is aimed squarely at common activities in data analysis including complex data manipulation, statistical analysis, automation, and publication-quality data visualization. We will introduce basic concepts of R programming as well as more generalizable best practices in working with laboratory data. 
 
@@ -12,8 +12,8 @@ This introductory R workshop aims to teach participants with minimal programming
 
 ## Pre-course work/requirements
 
-- Preferably two monitors (or two laptops), one for the Zoom conference software, and one in which you will work. (an IPad can serve as the Zoom platform in a pinch).
-- We will be utilizing Zoom Meeting for this workshop, please download and install the latest version [here](https://zoom.us/download).
+- Preferably two monitors (or two laptops), one for the Bluejeans conference software, and one in which you will work. (an IPad can serve as the BlueJeans platform in a pinch).
+- We will be utilizing BlueJeans Meeting for this workshop, please download and install the latest version [here](https://bluejeans.com/).
 - The program that we will be using to interact with R during the course is called **RStudio**. We will be using a cloud based version of RStudio, hosted at [RStudio.Cloud](https://rstudio.cloud/), in our workshop.
   - Please follow the instructions in [this presentation](https://drive.google.com/file/d/1hlPMuN_drjwbX4idk_H2A7imPjWPhoSN/view?usp=sharing) to setup an [RStudio.Cloud](https://rstudio.cloud/) account. 
   - *Note: Some older internet browsers may not be compatible with RStudio.cloud. See [this web page](https://support.rstudio.com/hc/en-us/articles/227449447-Supported-browsers-for-RStudio-Connect) for additional information.*
@@ -40,7 +40,7 @@ There are multiple ways to access and interact with the course content, dependin
 
 ## A note on the mechanics and etiquette of the virtual workshop
 Please note that this is first virtual R workshop that our team is hosting, we are preparing extensively to ensure that the workshop is productive for you, however some technical challenges are to be expected
-* Please refrain from screen grabbing other user's information, recording the workshop, or otherwise disrupting the flow of the Zoom Meeting.
+* Please refrain from screen grabbing other user's information, recording the workshop, or otherwise disrupting the flow of the BlueJeans Meeting.
 * Microphones will be muted during workshop main sessions but during breakout exercises you will be asked to collaboratively interact with your colleagues and an instructor. We encourage you to activate your video for the workshop. 
  
 ## Prior to the worshop
@@ -48,7 +48,7 @@ We will be holding an A/V and technical check for participants to make sure they
  
 ## The day of the workshop
 
-The workshop is scheduled to begin at 1 pm ET. In order to make sure that we can begin on schedule please make every effort to log into the Zoom conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
+The workshop is scheduled to begin at 1 pm ET. In order to make sure that we can begin on schedule please make every effort to log into the BlueJeans conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
 
 ## Acknowledgments
 
