@@ -3,9 +3,9 @@
 This introductory R workshop aims to teach participants with minimal programming experience the basics of the R statistical programming language for reproducible laboratory data analytics. R is a freely available programming environment that is aimed squarely at common activities in data analysis including complex data manipulation, statistical analysis, automation, and publication-quality data visualization. We will introduce basic concepts of R programming as well as more generalizable best practices in working with laboratory data. 
 
 - Instructors: 
-  * Daniel Herman
-  * [Stephan Kadauke](https://www.linkedin.com/in/skadauke/)
-  * Amrom Obstfeld
+  * [Daniel Herman](http://pathology.med.upenn.edu/department/people/906/daniel-s-herman)
+  * [Stephan Kadauke](http://pathology.med.upenn.edu/department/people/1158/stephan-kadauke)
+  * [Amrom Obstfeld](http://pathology.med.upenn.edu/department/people/267/amrom-obstfeld)
  
 
 ## Pre-course work/requirements
