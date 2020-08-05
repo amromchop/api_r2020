@@ -5,20 +5,18 @@ This introductory R workshop aims to teach participants with minimal programming
 - Instructors: 
   * Daniel Herman
   * [Stephan Kadauke](https://www.linkedin.com/in/skadauke/)
-  * [Patrick Mathias](https://www.linkedin.com/in/pcmathias/)
   * Amrom Obstfeld
-  * Joseph Rudolf
  
 
 ## Pre-course work/requirements
 
-- Preferably two monitors (or two laptops), one for the Bluejeans conference software, and one in which you will work. (an IPad can serve as the BlueJeans platform in a pinch).
-- We will be utilizing BlueJeans Meeting for this workshop, please download and install the latest version [here](https://bluejeans.com/).
+- Preferably two monitors (or two laptops), one for the conference software, and one in which you will work. (an IPad can serve as the BlueJeans platform in a pinch).
+- We will be utilizing BlueJeans for this workshop, please download and install the latest version [here](https://bluejeans.com/).
 - The program that we will be using to interact with R during the course is called **RStudio**. We will be using a cloud based version of RStudio, hosted at [RStudio.Cloud](https://rstudio.cloud/), in our workshop.
   - Please follow the instructions in [this presentation](https://drive.google.com/file/d/1hlPMuN_drjwbX4idk_H2A7imPjWPhoSN/view?usp=sharing) to setup an [RStudio.Cloud](https://rstudio.cloud/) account. 
-  - *Note: Some older internet browsers may not be compatible with RStudio.cloud. See [this web page](https://support.rstudio.com/hc/en-us/articles/227449447-Supported-browsers-for-RStudio-Connect) for additional information.*
+  - *Note: Some older internet browsers may not be compatible with RStudio.cloud. See [this web page](https://support.rstudio.com/hc/en-us/articles/227449447-Supported-browsers-for-RStudio-Connect) for additional information. **Do not attempt to use Microsoft Edge** with Rstudio.Cloud*
 - While not required, we **highly** recommend installing RStudio Desktop on your laptop as well. See instructions below. While we won't be using it during the workshop, you'll need it for future R work.
-- Please complete the following survey so we can better understand your R experience and what you want out of the course: [API R Workshop Participant Survey](https://forms.gle/Xe3U71ZBZRmrP2E87).
+- Please complete the following survey so we can better understand your R experience and what you want out of the course: [R Workshop Participant Survey](https://forms.gle/Mqv6UfeZrsHuKtWT8).
 
 
 ### Installing RStudio onto your own computer
@@ -32,27 +30,28 @@ Please complete each step in the video in turn including the final step, install
 
 ## Accessing/interacting with the course content
 
-There are multiple ways to access and interact with the course content, depending on whether you choose to proceed through the workshop using the cloud based RStudio or one on your own laptop. 
+There are multiple ways to access and interact with the course content. 
 
-1. All the course content will be pre-loaded in the RStudio Cloud instance and is available for download as a .zip file.
+1. All the course content will be loaded in the RStudio Cloud instance and will be available for download as a .zip file.
 2. The coursebook will be emailed to participants ahead of the workshop.
 3. After the workshop, the content will be available at our course github and can be downloaded from there as well.
 
 ## A note on the mechanics and etiquette of the virtual workshop
-Please note that this is first virtual R workshop that our team is hosting, we are preparing extensively to ensure that the workshop is productive for you, however some technical challenges are to be expected
+Please note that this virtual R workshop was developed originally as an in-person session, we are preparing extensively to ensure that the workshop is productive for you, however some technical challenges are to be expected
 * Please refrain from screen grabbing other user's information, recording the workshop, or otherwise disrupting the flow of the BlueJeans Meeting.
-* Microphones will be muted during workshop main sessions but during breakout exercises you will be asked to collaboratively interact with your colleagues and an instructor. We encourage you to activate your video for the workshop. 
+* Microphones will be muted during workshop main sessions. 
+* We encourage you to activate your video for the workshop. 
  
 ## Prior to the worshop
-We will be holding an A/V and technical check for participants to make sure they are prepared for the workshop. This will take place on Wednesday July 15 at 1pm eastern time. Details to follow.
+We will be holding an A/V and technical check for participants to make sure they are prepared for the workshop. This will take place on August 12th at 1pm eastern time. Details to follow.
  
 ## The day of the workshop
 
-The workshop is scheduled to begin at 1 pm ET. In order to make sure that we can begin on schedule please make every effort to log into the BlueJeans conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
+The workshop is scheduled to begin at 9 am ET. In order to make sure that we can begin on schedule please make every effort to log into the BlueJeans conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
 
 ## Acknowledgments
 
-All of the course instructors have previous experience implementing and executing R workshops at a variety of venues. The workshop we are presenting for the API community is in many ways a product of these past experiences. The workshop also integrates content, best practices, and lessons from a variety of educators in the R community. We would like to specifically acknowledge: 
+The course instructors have previous experience implementing and executing R workshops at a variety of venues. The workshop we are presenting is in many ways a product of these past experiences. The workshop also integrates content, best practices, and lessons from a variety of educators in the R community. We would like to specifically acknowledge: 
 
 - [MSACL Data Science 201](https://github.com/pcmathias/MSACL-intermediate-R-course), a course produced by Patrick Mathias and several collaborators, presented at the Mass Spectrometry: Applications to the Clinical Lab meeting.
 - Stephan Kadauke's R workshop for Pathology trainees and faculty, developed at the Massachusetts General Hospital and the Hospital of the University of Pennsylvania
