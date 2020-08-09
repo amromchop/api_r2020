@@ -43,11 +43,15 @@ Please note that this virtual R workshop was developed originally as an in-perso
 * We encourage you to activate your video for the workshop. 
  
 ## Prior to the worshop
-We will be holding an A/V and technical check for participants to make sure they are prepared for the workshop. This will take place on August 12th at 1pm eastern time. Details to follow.
+
+ * On the Friday prior to the workshop we will send you further instructions on configuring the RStudio.cloud project space.
+ * If you have difficulty configuring the RStudio.Cloud project space please attend the A/V check on August 16th at 8am, see details below.
  
 ## The day of the workshop
 
-The workshop is scheduled to begin at 9 am ET. In order to make sure that we can begin on schedule please make every effort to log into the Zoom conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
+ * We will be holding an A/V and technical check for participants to make sure they are prepared for the workshop. This will take place on August 16th at 8am ET. 
+ * The workshop is scheduled to begin at 9 am ET. 
+ * In order to make sure that we can begin on schedule please make every effort to log into the Zoom conference 10 - 15 minutes early to allow time to get settled, ensure your computer audio and video is set up, and get RStudio cloud up and running.
 
 ## Acknowledgments
 
