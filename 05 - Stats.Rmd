@@ -1,5 +1,5 @@
 ---
-title: "Statistical Analysis in R"
+title: "Summary and Stats in R"
 output: html_notebook
 editor_options: 
   chunk_output_type: inline
@@ -167,7 +167,7 @@ tmp_table_wide %>%
   fisher.test(simulate.p.value = T)
 ```
 
-## Your Turn 4
+## Association testing: Example
 
 Use fisher.test() to estimate the relative odds of a positive test result for patients with government insurance compared to commercial insurance?
 
