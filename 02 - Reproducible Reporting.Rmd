@@ -26,7 +26,7 @@ Adding narrative is simple: just use the mouse or the keyboard to move the curso
   My name is *XXX*, and I'm editing an R Markdown Document!
 
 
-Great! Now hit *Preview* again and see if you can the change you just made in the rendered HTML document.
+Great! Now hit *Knit* again and see if you can the change you just made in the rendered HTML document.
 
 
 ## Code Chunks
